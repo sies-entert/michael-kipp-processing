@@ -1,0 +1,9 @@
+beginShape();
+vertex(30,40);
+vertex(70,40);
+vertex(70,70);
+vertex(30,70);
+vertex(30,40);
+vertex(50,10);
+vertex(70,40);
+endShape(CLOSE);
